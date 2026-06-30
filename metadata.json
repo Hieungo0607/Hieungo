@@ -1,0 +1,6 @@
+{
+  "name": "Personal Expense Tracker Pro",
+  "description": "Một ứng dụng quản lý chi tiêu cá nhân thông minh và trực quan, kết hợp trợ lý ảo thông thái bằng mô hình trí tuệ nhân tạo Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
